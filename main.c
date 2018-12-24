@@ -1,5 +1,2 @@
 hello
-
-func2(){
-
-}
+p1 add hello

@@ -1,3 +1,4 @@
 hello
-p1 add ello
+p1 add shello
+funcA();
 

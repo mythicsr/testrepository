@@ -2,7 +2,8 @@ hello
 p1 add
 funcA(){
     dualB();
-    dual;
+    daualkk;
+    sfs
 }
 
 creatA(){

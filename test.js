@@ -1,1 +1,5 @@
-sdff
+function main(){
+    hello2
+
+
+}

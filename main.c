@@ -1,9 +1,7 @@
 hello
 p1 add
 funcA(){
-    dualB();
-    daualkk;
-    sfs
+    dualB(aasdf);
 }
 
 creatA(){

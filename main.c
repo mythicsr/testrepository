@@ -9,5 +9,5 @@ creatA(){
 }
 
 createB(){
-
+    你好
 }

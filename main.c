@@ -5,7 +5,7 @@ funcA(){
 }
 
 creatA(){
-    helloworld
+    hellowor
 }
 
 createB(){

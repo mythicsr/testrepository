@@ -3,4 +3,5 @@ function main(){
     hello1
     hello3
     fuak2
+    newlist;;
 }
